@@ -11,10 +11,10 @@
 #include <sourcemod>
 
 public Plugin myinfo = {
-	name = "eotl gameme soldier buff types", 
-	author = PLUGIN_AUTHOR, 
-	description = "GameMe stats for each soldier buff type", 
-	version = PLUGIN_VERSION, 
+	name = "eotl gameme soldier buff types",
+	author = PLUGIN_AUTHOR,
+	description = "GameMe stats for each soldier buff type",
+	version = PLUGIN_VERSION,
 	url = ""
 };
 
